@@ -1,7 +1,7 @@
 import "expo-router/entry";
-import { View, Text, Image, Linking } from "react-native";
+import { View, Text, } from "react-native";
 import { Link } from "expo-router";
-import { makerData } from "../maker/maker";
+import { tamiyaGenreData } from "../../maker/brands/tamiya";
 import { FlashList } from "@shopify/flash-list";
 
 export default function Index() {
@@ -13,17 +13,12 @@ export default function Index() {
       }}
     >
       <FlashList
-        data={makerData}
+        data={tamiyaGenreData}
         renderItem={({ item, index }) => {
           return (
             <Link href={`${item.link}`}>
               <View style={{ width: "100%", flex: 1, flexDirection: "row", alignItems:'center' }}>
                 <Text style={{fontSize: 18}}>{item.name}</Text>
-                <Image
-                  source={{ uri: item.image }}
-                  style={{ width: 200, height: 50 }}
-                  resizeMode="center"
-                />
               </View>
             </Link>
           );

@@ -3,8 +3,27 @@ import { Stack, Tabs } from "expo-router";
 export default function Layout() {
   return (
     <Tabs>
-      <Tabs.Screen name="index" options={{ title: "First" }} />
-      <Tabs.Screen name="test" options={{ title: "Second" }} />
+      <Tabs.Screen name="index" options={{ title: "メーカー一覧" }} />
+      <Tabs.Screen
+        name="tamiya"
+        options={{
+          // This tab will no longer show up in the tab bar.
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="tamiya/lp/index"
+        options={{
+          title: 'TAMIYA ラッカー塗料',
+          href: null,
+        }}
+      />
+      <Tabs.Screen
+        name="tamiya/index"
+        options={{
+          href: null,
+        }}
+      />
       <Tabs.Screen
         // Name of the route to hide.
         name="_sitemap"

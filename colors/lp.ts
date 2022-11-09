@@ -5,7 +5,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-1 BLACK\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82101\n",
-    imagePath: "./images/lp/82101.png",
+    imagePath: "/images/lp/82101.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82101/82101_1.jpg",
     siteImagePath:
@@ -21,7 +21,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-2 WHITE\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82102\n",
-    imagePath: "./images/lp/82102.png",
+    imagePath: "/images/lp/82102.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82102/82102_1.jpg",
     siteImagePath:
@@ -37,7 +37,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-3 FLAT BLACK\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82103\n",
-    imagePath: "./images/lp/82103.png",
+    imagePath: "/images/lp/82103.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82103/82103_1.jpg",
     siteImagePath:
@@ -53,7 +53,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-4 FLAT WHITE\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82104\n",
-    imagePath: "./images/lp/82104.png",
+    imagePath: "/images/lp/82104.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82104/82104_1.jpg",
     siteImagePath:
@@ -69,7 +69,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-5 SEMI GLOSS BLACK\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82105\n",
-    imagePath: "./images/lp/82105.png",
+    imagePath: "/images/lp/82105.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82105/82105_1.jpg",
     siteImagePath:
@@ -85,7 +85,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-6 PURE BLUE\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82106\n",
-    imagePath: "./images/lp/82106.png",
+    imagePath: "/images/lp/82106.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82106/82106_1.jpg",
     siteImagePath:
@@ -101,7 +101,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-7 PURE RED\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82107\n",
-    imagePath: "./images/lp/82107.png",
+    imagePath: "/images/lp/82107.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82107/82107_1.jpg",
     siteImagePath:
@@ -117,7 +117,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-8 PURE YELLOW\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82108\n",
-    imagePath: "./images/lp/82108.png",
+    imagePath: "/images/lp/82108.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82108/82108_1.jpg",
     siteImagePath:
@@ -133,7 +133,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-9 CLEAR\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82109\n",
-    imagePath: "./images/lp/82109.png",
+    imagePath: "/images/lp/82109.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82109/82109_1.jpg",
     siteImagePath:
@@ -149,7 +149,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-10 LACQUER THINNER (10ml)\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82110\n",
-    imagePath: "./images/lp/82110.png",
+    imagePath: "/images/lp/82110.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82110/82110_1.jpg",
     siteImagePath:
@@ -165,7 +165,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-11 SILVER\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82111\n",
-    imagePath: "./images/lp/82111.png",
+    imagePath: "/images/lp/82111.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82111/82111_1.jpg",
     siteImagePath:
@@ -181,7 +181,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-12 IJN GRAY (KURE ARSENAL)\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82112\n",
-    imagePath: "./images/lp/82112.png",
+    imagePath: "/images/lp/82112.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82112/82112_1.jpg",
     siteImagePath:
@@ -197,7 +197,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-13 IJN GRAY (SASEBO ARSENAL)\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82113\n",
-    imagePath: "./images/lp/82113.png",
+    imagePath: "/images/lp/82113.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82113/82113_1.jpg",
     siteImagePath:
@@ -213,7 +213,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-14 IJN GRAY (MAIZURU ARSENAL)\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82114\n",
-    imagePath: "./images/lp/82114.png",
+    imagePath: "/images/lp/82114.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82114/82114_1.jpg",
     siteImagePath:
@@ -229,7 +229,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-15 IJN GRAY (YOKOSUKA ARSENAL)\n",
     buyDate: "2017年12月2日(土)ごろ発売\n",
     itemSerial: "Item No:82115\n",
-    imagePath: "./images/lp/82115.png",
+    imagePath: "/images/lp/82115.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82115/82115_1.jpg",
     siteImagePath:
@@ -245,7 +245,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-16 WOODEN DECK TAN\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82116\n",
-    imagePath: "./images/lp/82116.png",
+    imagePath: "/images/lp/82116.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82116/82116_1.jpg",
     siteImagePath:
@@ -261,7 +261,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-17 LINOLEUM DECK BROWN\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82117\n",
-    imagePath: "./images/lp/82117.png",
+    imagePath: "/images/lp/82117.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82117/82117_1.jpg",
     siteImagePath:
@@ -277,7 +277,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-18 DULL RED\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82118\n",
-    imagePath: "./images/lp/82118.png",
+    imagePath: "/images/lp/82118.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82118/82118_1.jpg",
     siteImagePath:
@@ -293,7 +293,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-19 GUN METAL\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82119\n",
-    imagePath: "./images/lp/82119.png",
+    imagePath: "/images/lp/82119.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82119/82119_1.jpg",
     siteImagePath:
@@ -309,7 +309,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-20 LIGHT GUN METAL\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82120\n",
-    imagePath: "./images/lp/82120.png",
+    imagePath: "/images/lp/82120.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82120/82120_1.jpg",
     siteImagePath:
@@ -325,7 +325,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-21 ITALIAN RED\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82121\n",
-    imagePath: "./images/lp/82121.png",
+    imagePath: "/images/lp/82121.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82121/82121_1.jpg",
     siteImagePath:
@@ -341,7 +341,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-22 FLAT BASE\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82122\n",
-    imagePath: "./images/lp/82122.png",
+    imagePath: "/images/lp/82122.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82122/82122_1.jpg",
     siteImagePath:
@@ -357,7 +357,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-23 FLAT CLEAR\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82123\n",
-    imagePath: "./images/lp/82123.png",
+    imagePath: "/images/lp/82123.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82123/82123_1.jpg",
     siteImagePath:
@@ -373,7 +373,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-24 SEMI GLOSS CLEAR\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82124\n",
-    imagePath: "./images/lp/82124.png",
+    imagePath: "/images/lp/82124.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82124/82124_1.jpg",
     siteImagePath:
@@ -389,7 +389,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-25 BROWN (JGSDF)\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82125\n",
-    imagePath: "./images/lp/82125.png",
+    imagePath: "/images/lp/82125.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82125/82125_1.jpg",
     siteImagePath:
@@ -405,7 +405,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-26 DARK GREEN (JGSDF)\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82126\n",
-    imagePath: "./images/lp/82126.png",
+    imagePath: "/images/lp/82126.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82126/82126_1.jpg",
     siteImagePath:
@@ -421,7 +421,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-27 GERMAN GRAY\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82127\n",
-    imagePath: "./images/lp/82127.png",
+    imagePath: "/images/lp/82127.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82127/82127_1.jpg",
     siteImagePath:
@@ -437,7 +437,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-28 OLIVE DRAB\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82128\n",
-    imagePath: "./images/lp/82128.png",
+    imagePath: "/images/lp/82128.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82128/82128_1.jpg",
     siteImagePath:
@@ -453,7 +453,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-29 OLIVE DRAB 2\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82129\n",
-    imagePath: "./images/lp/82129.png",
+    imagePath: "/images/lp/82129.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82129/82129_1.jpg",
     siteImagePath:
@@ -469,7 +469,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-30 LIGHT SAND\n",
     buyDate: "2018年3月10日(土)ごろ発売\n",
     itemSerial: "Item No:82130\n",
-    imagePath: "./images/lp/82130.png",
+    imagePath: "/images/lp/82130.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82130/82130_1.jpg",
     siteImagePath:
@@ -485,7 +485,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-31 Dark Green 2 (IJN)\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82131\n",
-    imagePath: "./images/lp/82131.png",
+    imagePath: "/images/lp/82131.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82131/82131_1.jpg",
     siteImagePath:
@@ -501,7 +501,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-32 LIGHT GRAY (IJN)\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82132\n",
-    imagePath: "./images/lp/82132.png",
+    imagePath: "/images/lp/82132.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82132/82132_1.jpg",
     siteImagePath:
@@ -517,7 +517,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-33 GRAY GREEN (IJN)\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82133\n",
-    imagePath: "./images/lp/82133.png",
+    imagePath: "/images/lp/82133.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82133/82133_1.jpg",
     siteImagePath:
@@ -533,7 +533,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-34 LIGHT GRAY\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82134\n",
-    imagePath: "./images/lp/82134.png",
+    imagePath: "/images/lp/82134.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82134/82134_1.jpg",
     siteImagePath:
@@ -549,7 +549,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-35 INSIGNIA WHITE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82135\n",
-    imagePath: "./images/lp/82135.png",
+    imagePath: "/images/lp/82135.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82135/82135_1.jpg",
     siteImagePath:
@@ -565,7 +565,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-36 DARK GHOST GRAY\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82136\n",
-    imagePath: "./images/lp/82136.png",
+    imagePath: "/images/lp/82136.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82136/82136_1.jpg",
     siteImagePath:
@@ -581,7 +581,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-37 LIGHT GHOST GRAY\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82137\n",
-    imagePath: "./images/lp/82137.png",
+    imagePath: "/images/lp/82137.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82137/82137_1.jpg",
     siteImagePath:
@@ -597,7 +597,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-38 FLAT ALUMINUM\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82138\n",
-    imagePath: "./images/lp/82138.png",
+    imagePath: "/images/lp/82138.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82138/82138_1.jpg",
     siteImagePath:
@@ -613,7 +613,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-39 RACING WHITE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82139\n",
-    imagePath: "./images/lp/82139.png",
+    imagePath: "/images/lp/82139.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82139/82139_1.jpg",
     siteImagePath:
@@ -629,7 +629,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-40 METALLIC BLACK\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82140\n",
-    imagePath: "./images/lp/82140.png",
+    imagePath: "/images/lp/82140.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82140/82140_1.jpg",
     siteImagePath:
@@ -645,7 +645,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-41 MICA BLUE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82141\n",
-    imagePath: "./images/lp/82141.png",
+    imagePath: "/images/lp/82141.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82141/82141_1.jpg",
     siteImagePath:
@@ -661,7 +661,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-42 MICA RED\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82142\n",
-    imagePath: "./images/lp/82142.png",
+    imagePath: "/images/lp/82142.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82142/82142_1.jpg",
     siteImagePath:
@@ -677,7 +677,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-43 PEARL WHITE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82143\n",
-    imagePath: "./images/lp/82143.png",
+    imagePath: "/images/lp/82143.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82143/82143_1.jpg",
     siteImagePath:
@@ -693,7 +693,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-44 METALLIC ORANGE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82144\n",
-    imagePath: "./images/lp/82144.png",
+    imagePath: "/images/lp/82144.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82144/82144_1.jpg",
     siteImagePath:
@@ -709,7 +709,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-45 RACING BLUE\n",
     buyDate: "2018年6月23日(土)ごろ発売\n",
     itemSerial: "Item No:82145\n",
-    imagePath: "./images/lp/82145.png",
+    imagePath: "/images/lp/82145.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82145/82145_1.jpg",
     siteImagePath:
@@ -725,7 +725,7 @@ export const lpData = [
     itemNameEn: "LP-46 PURE METALLIC RED\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82146\n",
-    imagePath: "./images/lp/82146.png",
+    imagePath: "/images/lp/82146.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82146/82146_1.jpg",
     siteImagePath:
@@ -741,7 +741,7 @@ export const lpData = [
     itemNameEn: "LP-47 PEARL BLUE\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82147\n",
-    imagePath: "./images/lp/82147.png",
+    imagePath: "/images/lp/82147.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82147/82147_1.jpg",
     siteImagePath:
@@ -757,7 +757,7 @@ export const lpData = [
     itemNameEn: "LP-48 SPARKLING SILVER\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82148\n",
-    imagePath: "./images/lp/82148.png",
+    imagePath: "/images/lp/82148.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82148/82148_1.jpg",
     siteImagePath:
@@ -773,7 +773,7 @@ export const lpData = [
     itemNameEn: "LP-49 PEARL CLEAR\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82149\n",
-    imagePath: "./images/lp/82149.png",
+    imagePath: "/images/lp/82149.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82149/82149_1.jpg",
     siteImagePath:
@@ -789,7 +789,7 @@ export const lpData = [
     itemNameEn: "LP-50 BRIGHT RED\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82150\n",
-    imagePath: "./images/lp/82150.png",
+    imagePath: "/images/lp/82150.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82150/82150_1.jpg",
     siteImagePath:
@@ -805,7 +805,7 @@ export const lpData = [
     itemNameEn: "LP-51 PURE ORANGE\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82151\n",
-    imagePath: "./images/lp/82151.png",
+    imagePath: "/images/lp/82151.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82151/82151_1.jpg",
     siteImagePath:
@@ -821,7 +821,7 @@ export const lpData = [
     itemNameEn: "LP-52 CLEAR RED\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82152\n",
-    imagePath: "./images/lp/82152.png",
+    imagePath: "/images/lp/82152.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82152/82152_1.jpg",
     siteImagePath:
@@ -837,7 +837,7 @@ export const lpData = [
     itemNameEn: "LP-53 CLEAR ORANGE\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82153\n",
-    imagePath: "./images/lp/82153.png",
+    imagePath: "/images/lp/82153.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82153/82153_1.jpg",
     siteImagePath:
@@ -853,7 +853,7 @@ export const lpData = [
     itemNameEn: "LP-54 DARK IRON\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82154\n",
-    imagePath: "./images/lp/82154.png",
+    imagePath: "/images/lp/82154.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82154/82154_1.jpg",
     siteImagePath:
@@ -869,7 +869,7 @@ export const lpData = [
     itemNameEn: "LP-55 DARK YELLOW 2\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82155\n",
-    imagePath: "./images/lp/82155.png",
+    imagePath: "/images/lp/82155.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82155/82155_1.jpg",
     siteImagePath:
@@ -885,7 +885,7 @@ export const lpData = [
     itemNameEn: "LP-56 DARK GREEN 2\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82156\n",
-    imagePath: "./images/lp/82156.png",
+    imagePath: "/images/lp/82156.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82156/82156_1.jpg",
     siteImagePath:
@@ -901,7 +901,7 @@ export const lpData = [
     itemNameEn: "LP-57 RED BROWN 2\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82157\n",
-    imagePath: "./images/lp/82157.png",
+    imagePath: "/images/lp/82157.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82157/82157_1.jpg",
     siteImagePath:
@@ -917,7 +917,7 @@ export const lpData = [
     itemNameEn: "LP-58 NATO GREEN\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82158\n",
-    imagePath: "./images/lp/82158.png",
+    imagePath: "/images/lp/82158.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82158/82158_1.jpg",
     siteImagePath:
@@ -933,7 +933,7 @@ export const lpData = [
     itemNameEn: "LP-59 NATO BROWN\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82159\n",
-    imagePath: "./images/lp/82159.png",
+    imagePath: "/images/lp/82159.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82159/82159_1.jpg",
     siteImagePath:
@@ -949,7 +949,7 @@ export const lpData = [
     itemNameEn: "LP-60 NATO BLACK\n",
     buyDate: "2018年9月29日(土)ごろ発売\n",
     itemSerial: "Item No:82160\n",
-    imagePath: "./images/lp/82160.png",
+    imagePath: "/images/lp/82160.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82160/82160_1.jpg",
     siteImagePath:
@@ -965,7 +965,7 @@ export const lpData = [
     itemNameEn: "LP-61 METALLIC GRAY\n",
     buyDate: "2019年2月23日(土)ごろ発売\n",
     itemSerial: "Item No:82161\n",
-    imagePath: "./images/lp/82161.png",
+    imagePath: "/images/lp/82161.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82161/82161_1.jpg",
     siteImagePath:
@@ -981,7 +981,7 @@ export const lpData = [
     itemNameEn: "LP-62 TITANIUM GOLD\n",
     buyDate: "2019年2月23日(土)ごろ発売\n",
     itemSerial: "Item No:82162\n",
-    imagePath: "./images/lp/82162.png",
+    imagePath: "/images/lp/82162.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82162/82162_1.jpg",
     siteImagePath:
@@ -997,7 +997,7 @@ export const lpData = [
     itemNameEn: "LP-63 TITANIUM SILVER\n",
     buyDate: "2019年2月23日(土)ごろ発売\n",
     itemSerial: "Item No:82163\n",
-    imagePath: "./images/lp/82163.png",
+    imagePath: "/images/lp/82163.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82163/82163_1.jpg",
     siteImagePath:
@@ -1013,7 +1013,7 @@ export const lpData = [
     itemNameEn: "LP-64 OLIVE DRAB (JGSDF)\n",
     buyDate: "2019年5月25日(土)ごろ発売\n",
     itemSerial: "Item No:82164\n",
-    imagePath: "./images/lp/82164.png",
+    imagePath: "/images/lp/82164.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82164/82164_1.jpg",
     siteImagePath:
@@ -1029,7 +1029,7 @@ export const lpData = [
     itemNameEn: "LP-65 RUBBER BLACK\n",
     buyDate: "2019年5月25日(土)ごろ発売\n",
     itemSerial: "Item No:82165\n",
-    imagePath: "./images/lp/82165.png",
+    imagePath: "/images/lp/82165.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82165/82165_1.jpg",
     siteImagePath:
@@ -1045,7 +1045,7 @@ export const lpData = [
     itemNameEn: "LP-66 FLAT FLESH\n",
     buyDate: "2019年5月25日(土)ごろ発売\n",
     itemSerial: "Item No:82166\n",
-    imagePath: "./images/lp/82166.png",
+    imagePath: "/images/lp/82166.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82166/82166_1.jpg",
     siteImagePath:
@@ -1061,7 +1061,7 @@ export const lpData = [
     itemNameEn: "LP-67 SMOKE\n",
     buyDate: "2019年7月13日(土)ごろ発売\n",
     itemSerial: "Item No:82167\n",
-    imagePath: "./images/lp/82167.png",
+    imagePath: "/images/lp/82167.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82167/82167_1.jpg",
     siteImagePath:
@@ -1077,7 +1077,7 @@ export const lpData = [
     itemNameEn: "LP-68 CLEAR BLUE\n",
     buyDate: "2019年7月13日(土)ごろ発売\n",
     itemSerial: "Item No:82168\n",
-    imagePath: "./images/lp/82168.png",
+    imagePath: "/images/lp/82168.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82168/82168_1.jpg",
     siteImagePath:
@@ -1093,7 +1093,7 @@ export const lpData = [
     itemNameEn: "LP-69 CLEAR YELLOW\n",
     buyDate: "2019年7月13日(土)ごろ発売\n",
     itemSerial: "Item No:82169\n",
-    imagePath: "./images/lp/82169.png",
+    imagePath: "/images/lp/82169.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82169/82169_1.jpg",
     siteImagePath:
@@ -1109,7 +1109,7 @@ export const lpData = [
     itemNameEn: "LP-70 GLOSS ALUMINUM\n",
     buyDate: "2019年10月26日(土)ごろ発売\n",
     itemSerial: "Item No:82170\n",
-    imagePath: "./images/lp/82170.png",
+    imagePath: "/images/lp/82170.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82170/82170_1.jpg",
     siteImagePath:
@@ -1125,7 +1125,7 @@ export const lpData = [
     itemNameEn: "LP-71 CHAMPAGNE GOLD\n",
     buyDate: "2019年10月26日(土)ごろ発売\n",
     itemSerial: "Item No:82171\n",
-    imagePath: "./images/lp/82171.png",
+    imagePath: "/images/lp/82171.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82171/82171_1.jpg",
     siteImagePath:
@@ -1141,7 +1141,7 @@ export const lpData = [
     itemNameEn: "LP-72 MICA SILVER\n",
     buyDate: "2019年10月26日(土)ごろ発売\n",
     itemSerial: "Item No:82172\n",
-    imagePath: "./images/lp/82172.png",
+    imagePath: "/images/lp/82172.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82172/82172_1.jpg",
     siteImagePath:
@@ -1157,7 +1157,7 @@ export const lpData = [
     itemNameEn: "LP-73 KHAKI\n",
     buyDate: "2020年1月25日(土)ごろ発売\n",
     itemSerial: "Item No:82173\n",
-    imagePath: "./images/lp/82173.png",
+    imagePath: "/images/lp/82173.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82173/82173_1.jpg",
     siteImagePath:
@@ -1173,7 +1173,7 @@ export const lpData = [
     itemNameEn: "LP-74 FLAT EARTH\n",
     buyDate: "2020年1月25日(土)ごろ発売\n",
     itemSerial: "Item No:82174\n",
-    imagePath: "./images/lp/82174.png",
+    imagePath: "/images/lp/82174.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82174/82174_1.jpg",
     siteImagePath:
@@ -1189,7 +1189,7 @@ export const lpData = [
     itemNameEn: "LP-75 BUFF\n",
     buyDate: "2020年1月25日(土)ごろ発売\n",
     itemSerial: "Item No:82175\n",
-    imagePath: "./images/lp/82175.png",
+    imagePath: "/images/lp/82175.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82175/82175_1.jpg",
     siteImagePath:
@@ -1205,7 +1205,7 @@ export const lpData = [
     itemNameEn: "LP-76 YELLOW-BROWN (DAK 1941)\n",
     buyDate: "2020年4月11日(土)ごろ発売\n",
     itemSerial: "Item No:82176\n",
-    imagePath: "./images/lp/82176.png",
+    imagePath: "/images/lp/82176.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82176/82176_1.jpg",
     siteImagePath:
@@ -1221,7 +1221,7 @@ export const lpData = [
     itemNameEn: "LP-77 LIGHT BROWN (DAK 1942)\n",
     buyDate: "2020年4月11日(土)ごろ発売\n",
     itemSerial: "Item No:82177\n",
-    imagePath: "./images/lp/82177.png",
+    imagePath: "/images/lp/82177.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82177/82177_1.jpg",
     siteImagePath:
@@ -1237,7 +1237,7 @@ export const lpData = [
     itemNameEn: "LP-78 FLAT BLUE\n",
     buyDate: "2020年7月11日(土)ごろ発売\n",
     itemSerial: "Item No:82178\n",
-    imagePath: "./images/lp/82178.png",
+    imagePath: "/images/lp/82178.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82178/82178_1.jpg",
     siteImagePath:
@@ -1253,7 +1253,7 @@ export const lpData = [
     itemNameEn: "LP-79 FLAT RED\n",
     buyDate: "2020年7月11日(土)ごろ発売\n",
     itemSerial: "Item No:82179\n",
-    imagePath: "./images/lp/82179.png",
+    imagePath: "/images/lp/82179.png",
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/cms/img/usr/item/8/82179/82179_1.jpg",
     siteImagePath:

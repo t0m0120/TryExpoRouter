@@ -1,7 +1,9 @@
 import { Stack, Tabs } from "expo-router";
+import { NativeBaseProvider } from "native-base";
 
 export default function Layout() {
   return (
+    <NativeBaseProvider>
     <Tabs>
       <Tabs.Screen name="index" options={{ title: "メーカー一覧" }} />
       <Tabs.Screen
@@ -41,5 +43,6 @@ export default function Layout() {
         }}
       />
     </Tabs>
+    </NativeBaseProvider>
   );
 }

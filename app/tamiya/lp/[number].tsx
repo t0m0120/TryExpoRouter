@@ -31,7 +31,7 @@ ${lp.itemSerial}`}
 
       <Image
         source={{
-          uri: `${lp.imagePath}`,
+          uri: `${lp.imagelink}`,
         }}
         resizeMode="contain"
         style={{ width: 100, height: 100 }}

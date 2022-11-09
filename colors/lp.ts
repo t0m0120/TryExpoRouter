@@ -5,7 +5,7 @@ export const lpData = [
     itemNameEn: "LACQUER PAINT LP-1 BLACK",
     buyDate: "2017年12月2日(土)ごろ発売",
     itemSerial: "82101",
-    imagePath: "/images/lp/82101.png",
+    imagePath: require("../images/lp/82101.png"),
     imagelink:
       "https://d7z22c0gz59ng.cloudfront.net/japan_contents/img/usr/item/8/82101/82101_1.jpg",
     siteImagePath:

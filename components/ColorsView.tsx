@@ -8,7 +8,7 @@ export default function ColorsView({ item }: { item: TlpData }) {
     <Link href={`/tamiya/lp/${item.number}`}>
       <View style={{ flex: 1, width: "100%", flexDirection: "row" }}>
         <Image
-          source={{ uri: item.imagePath }}
+          source={{ uri: item.imagelink }}
           style={{ width: 75, height: 75 }}
         />
         <Text>{item.itemNameJa}</Text>

@@ -2,6 +2,6 @@ export const makerData = [
   {
     name: 'TAMIYA',
     link: "tamiya",
-    image: './images/logo/TAMIYA_Logo.png'
+    image: require('../images/logo/TAMIYA_Logo.png')
   },
 ];

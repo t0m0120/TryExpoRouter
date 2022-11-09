@@ -12,7 +12,6 @@ export default function ColorsView({ item }: { item: TlpData }) {
           style={{ width: 75, height: 75 }}
         />
         <Text>{item.itemNameJa}</Text>
-        <Text>{item.hexColors[1]}</Text>
       </View>
     </Link>
   );
